@@ -4,4 +4,4 @@
 ## Study Log
 * [[계산기 - 단위 테스트]](https://github.com/next-step/java-calculator-unit-playground/pull/23) (2024.05.04 ~ 2024.05.05)
 * [로또 - 클린 코드]
-  * [1단계](https://github.com/next-step/java-lotto-clean-playground/pull/25) (2024.05.16 ~)
+  * [1단계](https://github.com/next-step/java-lotto-clean-playground/pull/25) (2024.05.16 ~ 2024.05.23)
